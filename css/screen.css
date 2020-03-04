@@ -238,20 +238,19 @@ label {
 }
 
 #age-input {
-  color: #000000;
+  background-color: black;
+  color: #808080;
   display: block;
   box-sizing: border-box;
   margin:auto;
   width: 90%;
   resize: vertical;
-  background-color: purple;
-  color: red;
 }
 
 #submit-part {
   width: 10em;
-  background-color: green;
-  color: yellow;
+  background-color: #B4B4B4;
+  color: white;
   padding: 12px 20px;
   cursor: pointer;
   float: right;
