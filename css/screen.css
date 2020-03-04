@@ -255,7 +255,9 @@ label {
 #submit-part {
   width: 90%;
   background-color: #D3D3D3;
+  display: block;
   box-sizing: border-box;
+  margin:auto;
   color: white;
   padding: 12px 20px;
   cursor: pointer;
