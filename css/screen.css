@@ -207,6 +207,7 @@ label {
 /* ===== LAYOUT STYLES ====== */
 
 #title-section {
+  font-family: "Times New Roman", Times, serif;
   background-color: #D3D3D3;
   color: white;
   display: block;
@@ -218,6 +219,7 @@ label {
 }
 
 #content-type {
+  font-family: Arial, Helvetica, sans-serif;
   background-color: black;
   color: #808080;
   display: block;
