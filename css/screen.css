@@ -261,6 +261,10 @@ label {
   cursor: pointer;
 }
 
+input {
+ border: none;  
+}
+
 
 
 /* ===== MODULAR STYLES ===== */
