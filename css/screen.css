@@ -207,7 +207,7 @@ label {
 /* ===== LAYOUT STYLES ====== */
 
 #title-section {
-  font-family: "Times New Roman", Times, serif;
+  font-family:'Monotype Corsiva',cursive;
   background-color: #D3D3D3;
   color: #4F4F4F;
   display: block;
@@ -231,6 +231,7 @@ label {
 }
 
 #email-input {
+  font-family: "Times New Roman", Times, serif;
   background-color: #D3D3D3;
   color: #4F4F4F;
   display: block;
@@ -242,6 +243,7 @@ label {
 }
 
 #age-input {
+  font-family: "Times New Roman", Times, serif;
   background-color: black;
   color: #808080;
   display: block;
