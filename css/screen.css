@@ -218,7 +218,7 @@ label {
 
 #content-type {
   background-color: black;
-  color: white;
+  color: #808080;
   display: block;
   box-sizing: border-box;
   margin:auto;
@@ -227,7 +227,8 @@ label {
 }
 
 #email-input {
-  background-color: #808080;
+  background-color: #B4B4B4;
+  color: white;
   display: block;
   box-sizing: border-box;
   margin:auto;
