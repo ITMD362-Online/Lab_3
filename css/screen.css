@@ -243,12 +243,14 @@ label {
   margin:auto;
   width: 90%;
   resize: vertical;
+  background-color: purple;
+  color: red;
 }
 
 #submit-part {
   width: 10em;
-  background-color: #FFFFFF;
-  color: white;
+  background-color: green;
+  color: yellow;
   padding: 12px 20px;
   cursor: pointer;
   float: right;
