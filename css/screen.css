@@ -207,11 +207,23 @@ label {
 /* ===== LAYOUT STYLES ====== */
 
 #title-section {
- 
+  background-color: #B4B4B4;
+  color: white;
+  display: block;
+  box-sizing: border-box;
+  margin:auto;
+  width: 90%;
+  resize: vertical;
 }
 
 #content-type {
-   
+  background-color: black;
+  color: white;
+  display: block;
+  box-sizing: border-box;
+  margin:auto;
+  width: 90%;
+  resize: vertical;
 }
 
 #email-input {
@@ -220,7 +232,6 @@ label {
   box-sizing: border-box;
   margin:auto;
   width: 90%;
-
   resize: vertical;
 }
 
