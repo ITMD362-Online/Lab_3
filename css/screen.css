@@ -227,6 +227,7 @@ label {
   margin:auto;
   width: 90%;
   resize: vertical;
+  padding: 1.375em; /* 22px */
 }
 
 #email-input {
@@ -237,6 +238,7 @@ label {
   margin:auto;
   width: 90%;
   resize: vertical;
+  padding: 1.375em; /* 22px */
 }
 
 #age-input {
@@ -247,6 +249,7 @@ label {
   margin:auto;
   width: 90%;
   resize: vertical;
+  padding: 1.375em; /* 22px */
 }
 
 #submit-part {
